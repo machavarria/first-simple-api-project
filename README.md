@@ -1,7 +1,9 @@
-# 📊 Simple Star Wars Project
+# Simple Star Wars Project
 
 ### Description
 Choose a Star Wars movie and get the info of what it's about.
+
+![](img/first-simple-api-screenshot.png)
 
 ### Tech Used:
 
